@@ -1,2 +1,2 @@
 # Snake-by-Grok
-Elon Musk's first I GAME
+Elon Musk's first AI GAME
